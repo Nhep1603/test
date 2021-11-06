@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         // commit 1
-        //
+        // commit 2
         ///
         ///
         ///
